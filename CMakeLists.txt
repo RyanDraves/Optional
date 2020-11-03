@@ -28,7 +28,7 @@ export(TARGETS optional FILE OptionalLibraryConfig.cmake)
 
 # ADD TESTS
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-add_subdirectory(test)
+# add_subdirectory(test)
 
 # DOXYGEN
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
